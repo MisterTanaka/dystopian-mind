@@ -1,0 +1,22 @@
+{
+  "name": "dystopian-mind",
+  "version": "1.0.0",
+  "description": "a application to create characters from a ttrpg I like",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterTanaka/dystopian-mind.git"
+  },
+  "keywords": [
+    "shadowrun"
+  ],
+  "author": "Mr. Johnson <d34th.not3.relight@gmail.com> (shadowrunners.hub.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MisterTanaka/dystopian-mind/issues"
+  },
+  "homepage": "https://github.com/MisterTanaka/dystopian-mind#readme"
+}
